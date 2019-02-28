@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Abel|Open+Sans+Condensed:300');
+@import url('https://fonts.googleapis.com/css?family=Abel|Cinzel|Open+Sans+Condensed:300');
+@import url('https://fonts.googleapis.com/css?family=Abel|Amiri|Cinzel|Open+Sans+Condensed:300');
+/*******Left Sidebar******/
+
+.h1 {
+    color: #e5edf2;
+    font-size: 1.5em;
+    font-family : 'Cinzel', serif;
+     padding: 2.5px;
+	 text-align: center; 
+}
+img {
+	 
+  display: center;
+  margin-left: 0px;
+  margin-right: 0px;
+   border-color: #000000;
+    border-style: solid;
+  border-width: 1px;
+  width: 10%;
+}
+body {
+    background-color : #ff87b9; 
+    padding:10px;
+	text-align:center;
+	font-size: 1em;
+	color: #8e1145;
+}
+
+.position {
+    color :#bdfa9c;
+    font-size: 1.5em;
+    font-family :serif;
+    padding-left: 10px;
+}
+
+ul {
+    list-style: none
+}
+h2 {
+    padding :10px;
+	 text-align: center;
+}
